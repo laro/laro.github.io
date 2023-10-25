@@ -1,2 +1,2 @@
 # laro.github.io
-Personal Pages for Lars Rosenboom
+Personal pages for Lars Rosenboom
